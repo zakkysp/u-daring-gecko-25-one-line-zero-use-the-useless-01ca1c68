@@ -11,7 +11,7 @@ produces byte-identical output.
 
 import os
 
-LINE = "I can control the weather, but only in a one-metre circle around me, and only to make it slightly worse."
+LINE = "I can read minds, but only my own, and only the thoughts I already had."
 
 
 def main():
